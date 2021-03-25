@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kemonprogrammer
-
+- Feel free to ask me questions in the [Discussions tab](https://github.com/kemonprogrammer/kemonprogrammer/discussions)
 
 <!---
 kemonprogrammer/kemonprogrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
