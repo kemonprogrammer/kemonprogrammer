@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @kemonprogrammer
-- Feel free to ask me questions in the [Discussions tab](https://github.com/kemonprogrammer/kemonprogrammer/discussions/categories/q-a)
+- 👋 Hi, I’m Michael
+- 🌱 I’m currently learning JS and Flutter
+- 📫 Reach me under the [Discussions tab](https://github.com/kemonprogrammer/kemonprogrammer/discussions/categories/q-a)
 
 <!---
 kemonprogrammer/kemonprogrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
