@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Michael
 - 🌱 I’m currently learning JS and Flutter
+- 💞️ I’m looking to collaborate on any small projects with Java, JS or Flutter 
 - 📫 Reach me under the [Discussions tab](https://github.com/kemonprogrammer/kemonprogrammer/discussions/categories/q-a)
 
 <!---
