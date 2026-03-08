@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Michael
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on any small projects with Java or JS 
+- 🌱 I’m currently building projects in Java Spring and getting my feet wet with Go
+- 💞️ I’m looking to collaborate on any small projects with Java or React or Go
 - 📫 Reach me under the [Discussions tab](https://github.com/kemonprogrammer/kemonprogrammer/discussions/5)
